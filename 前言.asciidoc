@@ -31,4 +31,4 @@
 
 [[赞赏译者]]
 .赞赏译者
-image::images/thanks.jpeg["赞赏译者"]
+image::images/thanks.jpeg["赞赏译者",height=200]

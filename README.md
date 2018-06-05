@@ -7,7 +7,7 @@
 
 ### 如何阅读
 
-要阅读本书，请点击每章的 asciidoc 文件，在浏览器中阅读。
+要阅读本书，请点击每个 **asciidoc** 文件，在浏览器中阅读。
 
 本书可通过CC-BY-NC-ND许可证获得，而非CC-BY-SA许可证。
 
@@ -16,4 +16,14 @@
 ### 原书购买链接：
 [Amazon](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain/dp/1491954388)
 
+### 关于译者
+计算机科学硕士，对经济学感兴趣，很早加入数字货币和区块链研究。
+
+利用闲暇时间将本书进行了翻译，供懒得看英文原版的同学学习使用~
+
+Wechat: 121402213
+
+Email: wrtdege@126.com
+
+### 打赏
 ![](images/thanks.jpeg)

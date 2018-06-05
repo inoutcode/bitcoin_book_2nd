@@ -212,3 +212,5 @@ image::images/mbc2_0102.png["airbitz mobile send screen"]
 ****
 
 Alice现在是那0.10BTC的所有者了。在下一章中，我们将看到她第一次使用比特币购买东西，并更详细地研究背后的交易和传播技术。((("", startref="BCbasic01")))((("use cases", "buying coffee", startref="aliceone")))
+
+image::images/thanks.jpeg["赞赏译者",height=400,align="center"]

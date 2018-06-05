@@ -251,4 +251,4 @@ SHA::
 钱包导入格式（Wallet Import Format，WIF）::
     WIF或电子钱包导入格式是一种数据交换格式，允许导出和导入带有标志的单个私钥，该标志表示它是否使用压缩的公钥。
 
-image::images/thanks.jpeg
+image::images/thanks.jpeg["赞赏译者",height=400,align="center"]

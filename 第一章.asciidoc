@@ -1,6 +1,6 @@
 [role="pagenumrestart"]
 [[ch01_intro_what_is_bitcoin]]
-== 简介
+== 概述
 
 === 什么是比特币
 

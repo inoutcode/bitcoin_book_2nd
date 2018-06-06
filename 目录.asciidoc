@@ -4,11 +4,11 @@ include::前言.asciidoc[]
 
 include::术语.asciidoc[]
 
-include::第一章.asciidoc[]
+include::第一章.asciidoc[] 概述
 
-include::第二章.asciidoc[]
+include::第二章.asciidoc[] 比特币如何运转
 
-include::ch03.asciidoc[]
+include::第三章.asciidoc[] Bitcoin Core参考实现
 
 include::ch04.asciidoc[]
 

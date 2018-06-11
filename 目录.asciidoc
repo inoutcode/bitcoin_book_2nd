@@ -12,9 +12,9 @@ include::第三章.asciidoc[]
 
 include::第四章.asciidoc[]
 
-include::ch05.asciidoc[]
+include::第五章.asciidoc[]
 
-include::ch06.asciidoc[]
+include::第六章.asciidoc[]
 
 include::ch07.asciidoc[]
 

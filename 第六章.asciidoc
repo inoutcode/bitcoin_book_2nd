@@ -2,6 +2,8 @@
 [[transactions]]
 == 交易
 
+<<第五章#,上一章：钱包>>
+
 [[ch06_intro]]
 === 简介
 
@@ -733,5 +735,7 @@ image::images/mbc2_0608.png["The balance of Bob's bitcoin address"]
 每天，在区块链中确认数百个不包含P2PKH输出的交易。区块链浏览器通常会用红色警告信息显示他们无法解码地址。以下链接包含未完全解码的最新的“奇怪交易”：https：//blockchain.info/strange-transactions[] 。
 
 我们将在下一章中看到的，这些并不一定是奇怪的交易。它们是包含比普通 P2PKH 更复杂的锁定脚本的交易。我们将学习如何解码和理解更复杂的脚本及其支持的应用程序。
+
+<<第七章#,上一章：高级交易与脚本>>
 
 image::images/thanks.jpeg["赞赏译者",height=400,align="center"]

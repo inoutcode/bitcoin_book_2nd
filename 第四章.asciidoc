@@ -1,6 +1,8 @@
 [[ch04_keys_addresses]]
 == 密钥和地址
 
+<<第三章#,上一章：Bitcoin Core参考实现>>
+
 ((("cryptography", "defined")))((("cryptography", see="also keys and addresses")))
 你可能听说过比特币是基于 _密码学_ 的，它是计算机安全领域广泛使用的数学分支。密码学在希腊文中的意思是“秘密写作”，但密码学的科学不仅仅包含秘密写作，它被称为加密。密码学也可以用来在不泄露保密内容的情况下，证明一个人知道保密内容（数字签名），或证明数据的真实性（数字指纹）。这些密码学基础是比特币的关键数学工具，并广泛用于比特币应用。((("encryption")))((("encryption", see="also keys and addresses")))讽刺的是，加密并不是比特币的重要组成部分，因为它的通信和交易数据没有加密，也不需要通过加密保护资金。在本章中，我们将介绍比特币中使用的密码学，以密钥，地址和钱包的形式控制资金的所有权。
 
@@ -836,5 +838,7 @@ image::images/mbc2_0411.png[]
 [[paper_wallet_spw]]
 .An example of a paper wallet with additional copies of the keys on a backup "stub"
 image::images/mbc2_0412.png[]
+
+<<第五章#,下一章：钱包>>
 
 image::images/thanks.jpeg["赞赏译者",height=400,align="center"]

@@ -1,6 +1,8 @@
 [[ch03_bitcoin_client]]
 == Bitcoin Core：参考实现
 
+<<第二章#,上一章：比特币如何运作>>
+
 ((("open source licenses")))((("Nakamoto, Satoshi")))比特币是开源的项目，源代码使用MIT授权方式，可以免费下载和使用。开源不仅意味着免费使用，也意味着比特币是由开源志愿者社区开发的。起初，这个社区只包括中本聪（Satoshi Nakamoto）。到2016年，比特币的源代码拥有超过400个贡献者，大约有十几位开发人员几乎全职工作，另外几十人兼职工作。任何人都可以贡献代码，包括你！
 
 
@@ -790,5 +792,7 @@ https://github.com/MetacoSA/NBitcoin[NBitcoin]:: .NET框架的综合比特币库
 https://github.com/oleganza/CoreBitcoin[CoreBitcoin]:: 为ObjC和Swift提供的比特币工具包
 
 还有各种编程语言的库存在，还有更多的库在开发。((("", startref="BCalt03")))((("", startref="clients03")))((("", startref="thirdpart03")))((("", startref="toolkit03")))((("", startref="librar03")))
+
+<<第四章#,下一章：密钥与地址>>
 
 image::images/thanks.jpeg["赞赏译者",height=400,align="center"]

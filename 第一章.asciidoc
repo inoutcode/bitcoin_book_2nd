@@ -1,7 +1,7 @@
 [role="pagenumrestart"]
 [[ch01_intro_what_is_bitcoin]]
 == 概述
-
+<<术语#,上一章：术语>>
 === 什么是比特币
 
 ((("bitcoin", "defined", id="GSdefine01")))比特币是组成数字货币生态的一系列概念和技术的集合。 比特币也用作在比特币网络的参与者之间存储和传递价值的货币单位。 比特币用户主要通过互联网使用比特币协议进行通信，当然，也可以使用其他传输网络。 比特币协议栈是开源的，易于使用，可运行在各种计算设备上，包括笔记本电脑和智能手机。
@@ -212,5 +212,5 @@ image::images/mbc2_0102.png["airbitz mobile send screen"]
 ****
 
 Alice现在是那0.10BTC的所有者了。在下一章中，我们将看到她第一次使用比特币购买东西，并更详细地研究背后的交易和传播技术。((("", startref="BCbasic01")))((("use cases", "buying coffee", startref="aliceone")))
-
+<<第二章#,下一章：比特币如何运作>>
 image::images/thanks.jpeg["赞赏译者",height=400,align="center"]

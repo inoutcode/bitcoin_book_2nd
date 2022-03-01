@@ -736,6 +736,6 @@ image::images/mbc2_0608.png["The balance of Bob's bitcoin address"]
 
 我们将在下一章中看到的，这些并不一定是奇怪的交易。它们是包含比普通 P2PKH 更复杂的锁定脚本的交易。我们将学习如何解码和理解更复杂的脚本及其支持的应用程序。
 
-<<第七章#,上一章：高级交易与脚本>>
+<<第七章#,下一章：高级交易与脚本>>
 
 image::images/thanks.jpeg["赞赏译者",height=400,align="center"]
